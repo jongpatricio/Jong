@@ -1,2 +1,0 @@
-# Jong
-datasciencecoursera
